@@ -157,7 +157,8 @@
             top: calc(50% - 12px);
             bottom: 0;
             right: 0;
-            width: 70%;
+            width: 100%;
+            max-width:150px;
     }
     
         .titleValue{ color: #757575; }  
